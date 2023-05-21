@@ -7,11 +7,10 @@ I’m currently working on Tall Stack and FilamentPhp and PowerShell
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12608](https://github.com/nuxt/nuxt.js/issues/12608) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-2. 💪 Opened PR [#9962](https://github.com/nuxt/framework/pull/9962) in [nuxt/framework](https://github.com/nuxt/framework)
-3. 🗣 Commented on [#9946](https://github.com/nuxt/framework/issues/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-4. 💪 Opened PR [#9946](https://github.com/nuxt/framework/pull/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-5. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+1. 🗣 Commented on [#50](https://github.com/alperenersoy/filament-export/issues/50) in [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export)
+2. 💪 Opened PR [#7](https://github.com/Nuhel/filament-cropper/pull/7) in [Nuhel/filament-cropper](https://github.com/Nuhel/filament-cropper)
+3. 🗣 Commented on [#15](https://github.com/icetalker/filament-table-repeater/issues/15) in [icetalker/filament-table-repeater](https://github.com/icetalker/filament-table-repeater)
+4. 🗣 Commented on [#50](https://github.com/alperenersoy/filament-export/issues/50) in [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export)
 <!--END_SECTION:activity-->
 
 
